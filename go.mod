@@ -1,4 +1,4 @@
-module github.com/alkaaf/go-common
+module github.com/PengShaw/go-common
 
 go 1.17
 
